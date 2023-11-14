@@ -61,7 +61,8 @@ Skills:
 
 Practice ideas:
 1. Need to learn a specific web interactions(for example controlling drop downs)
-	1. https://testpages.herokuapp.com/styled/index.html
-2. Create a small test suite using one of these resources
+	1. http://www.uitestingplayground.com/ 	
+	2. https://testpages.herokuapp.com/styled/index.html
+3. Create a small test suite using one of these resources
 	1. https://ultimateqa.com/dummy-automation-websites/
-3. Compare the extra functionality that comes in playwrite to selenium. Build a selenium framework that has those functions
+4. Compare the extra functionality that comes in playwrite to selenium. Build a selenium framework that has those functions
