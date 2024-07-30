@@ -70,15 +70,18 @@ Ok is e2e front end testing the most important form of testing? Hell no. Is it t
 		Use the first two links for learning the in's an out's of your testing tool. Use the third for practicing implementing the POM.
 		- `http://www.uitestingplayground.com/`
 		- `http://the-internet.herokuapp.com/`
-		- `https://www.saucedemo.com/`
+		- `https://automationexercise.com/`
 
 7. Learn git, github, cicd (just start with github actions)
 		At this point you should be starting to look for resources on your own. I'll occasionally add something when I think it's worth, but it's time to build those problem solving skills.
 
 8. should be able to have a fake project that when updated triggers your tests on github actions
-		The fake project can just be a text document you edit and the tests to be triggered.
+		The fake project can just be a text document you edit and the tests to be triggered. Use your tests created in the practice link
+
 
 At this point you have enough on you to start looking for entry lvl automation jobs. Please don't stop here just start applying from here. Start reading things like `https://medium.com/slalom-build/dont-automate-test-cases-58e3b959ce6`. This is all opinions so don't take this as gospel, but do start thinking about processes, why, how, ect.
+
+
 
 ## Backend
 Ok at this point you should be taking suggestions and running with them so This won't be as built out. 
@@ -92,6 +95,7 @@ Ok at this point you should be taking suggestions and running with them so This 
 
 Practice resources for API:
 - https://petstore.swagger.io/
+- `https://automationexercise.com/`
 
 ## Performance
 I'm not going to try and pretend that I have ever found a company that actually did this. At this point we are doing things in parallel. If that ever changes I'll update this with more insights but for now, GLHF. 
