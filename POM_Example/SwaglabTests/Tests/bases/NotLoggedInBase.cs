@@ -3,7 +3,7 @@ using OpenQA.Selenium.Chrome;
 
 namespace SwaglabTests.Tests;
 
-[TestFixture]
+[TestFixture("firefox")]
 public class NotLoggedInBase
 {
     
