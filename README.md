@@ -64,7 +64,8 @@ Ok is e2e front end testing the most important form of testing? Hell no. Is it t
 
 4. OOP - `https://www.youtube.com/watch?v=SiBw7os-_zI`
 		This is a precursor to the POM. Follow this up with specifics in w/e language you are using.
-5. POM - https://martinfowler.com/bliki/PageObject.html and the pdf above (It's viewable online when routed through reddit but not other wise. Idk it's worth reading so shhhhh)
+5. POM - https://martinfowler.com/bliki/PageObject.html and the pdf above (It's viewable online when routed through reddit but not other wise. Idk it's worth reading so shhhhh). Also attached is an example POM implementation using C#. Read the projects README before looking at the code. 
+
 6. Practice
 		Use the first two links for learning the in's an out's of your testing tool. Use the third for practicing implementing the POM.
 		- `http://www.uitestingplayground.com/`
@@ -77,7 +78,7 @@ Ok is e2e front end testing the most important form of testing? Hell no. Is it t
 8. should be able to have a fake project that when updated triggers your tests on github actions
 		The fake project can just be a text document you edit and the tests to be triggered.
 
-At this point you have enough on you to start looking for entry lvl automation jobs. Please don't stop here just start applying from here. Start reading things like `https://medium.com/slalom-build/dont-automate-test-cases-58e3b959ce6`. This is all opinions so don;t take this as gospel, but do start thinking about processes, why, how, ect.
+At this point you have enough on you to start looking for entry lvl automation jobs. Please don't stop here just start applying from here. Start reading things like `https://medium.com/slalom-build/dont-automate-test-cases-58e3b959ce6`. This is all opinions so don't take this as gospel, but do start thinking about processes, why, how, ect.
 
 ## Backend
 Ok at this point you should be taking suggestions and running with them so This won't be as built out. 
