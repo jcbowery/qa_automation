@@ -66,7 +66,7 @@ Use first two links for learning the tools and hwo to deal with specific element
 		The fake project can just be a text document you edit and the tests to be triggered. Use your tests created in the practice link
 
 
-At this point you have enough on you to start looking for entry lvl automation jobs. Please don't stop here just start applying from here. Start reading things like `https://medium.com/slalom-build/dont-automate-test-cases-58e3b959ce6`. This is all opinions so don't take this as gospel, but do start thinking about processes, why, how, ect.
+At this point you have enough on you to start looking for entry lvl automation jobs. Please don't stop here just start applying from here. Start reading things like <https://medium.com/slalom-build/dont-automate-test-cases-58e3b959ce6>. This is all opinions so don't take this as gospel, but do start thinking about processes, why, how, ect.
 
 
 
