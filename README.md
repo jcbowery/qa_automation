@@ -29,7 +29,7 @@ Once you hit automation jump here.
 	- **Python**
 	- **JS/TS**
 
-You can't go wrong with any of these. If you are relying on the resources here I am using python so do with that aas you will.
+You can't go wrong with any of these. I use python for any demos. I bounce between languages for various projects often and just find python the easiest to go to and from for automation.
 
 ## Frontend Web
 Ok is e2e front end testing the most important form of testing? No. Is it the primary focus of automation on the whole? See previous answer. But we will start here because, and this is just my personal experience, majority of companies equate automation with front end web automation and this is a roadmap to get your foot in the door. 
