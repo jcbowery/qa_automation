@@ -31,21 +31,23 @@ Once you hit automation jump here.
 
 You can't go wrong with any of these. If you are relying on the resources here I am using python so do with that aas you will.
 
-## Frontend
+## Frontend Web
 Ok is e2e front end testing the most important form of testing? No. Is it the primary focus of automation on the whole? See previous answer. But we will start here because, and this is just my personal experience, majority of companies equate automation with front end web automation and this is a roadmap to get your foot in the door. 
 
 1.  **Xpath** - <https://www.w3schools.com/xml/xpath_intro.asp>
 		Not the most exciting thing to start with but since you already know css selectors like id and class might as well throw this one extra piece before jumping in. <https://devhints.io/xpath> is a good resource for reference. 
 2. **UnitTesting Framework** - Choose according to language. Just because this is one of the best unit testing resources I've seen for any language, here is a bonus Python resource <https://pytest-with-eric.com/> 
 3. **Front end Frameworks** - We will start Selenium.
-		- Start point- <https://www.selenium.dev/> Read through their official docs. It isn't the best but it certainly isn't the worst. It will give you a little more baseline before jumping into any of the other resources.
-		- C# - `https://testautomationu.applitools.com/learningpaths.html?id=csharp-web-ui-path`
-		- JS - `https://testautomationu.applitools.com/learningpaths.html?id=javascript-web-ui-path`
-		- Python - `https://www.youtube.com/watch?v=pcGqraAgMto&list=PLhW3qG5bs-L8vvw4HUrF9o4t6npvmbHWP`
+	1. Start point- <https://www.selenium.dev/> Read through their official docs. It isn't the best but it certainly isn't the worst. It will give you a little more baseline before jumping into any of the other resources.
+	2. *C#* - <https://testautomationu.applitools.com/learningpaths.html?id=csharp-web-ui-path>
+	3. JS - <https://testautomationu.applitools.com/learningpaths.html?id=javascript-web-ui-path>
+	4. Python - <https://www.youtube.com/watch?v=pcGqraAgMto&list=PLhW3qG5bs-L8vvw4HUrF9o4t6npvmbHWP>
 
-		- *Playwright* - <https://testautomationu.applitools.com/learningpaths.html?id=playwright-path>
-		- *WebdriverIO* - <https://www.youtube.com/watch?v=gdd5ZC5L9TM&list=PLhW3qG5bs-L9K2xtu-04jZFqykzXzqJW8&index=1>
-	
+You can skip these next two until after you wrap up some base line frontend, backend, perf, ect. I do think these newer tools are really good and worth knowing, but I still think getting selenium fundamentals will help with these for later. 
+
+- *Playwright* - <https://testautomationu.applitools.com/learningpaths.html?id=playwright-path>
+- *WebdriverIO* - <https://www.youtube.com/watch?v=gdd5ZC5L9TM&list=PLhW3qG5bs-L9K2xtu-04jZFqykzXzqJW8&index=1>
+
 4. **OOP** - <https://www.youtube.com/watch?v=SiBw7os-_zI>
 		This is a precursor to the POM. Follow this up with specifics in w/e language you are using.
 5. **POM** - The official selenium documents do a decent job at covering patterns. I have some small examples of some patterns here as well <https://github.com/jcbowery/Automation_Patterns>. Just remember this isn't a fully implemented solution just getting pattern ideas through.
@@ -99,4 +101,6 @@ You can get a job without these but I still think they are important before bein
 10. Selenium grid
 
 11. Utilizing docker
+
+12. Mobile
 
