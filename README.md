@@ -1,4 +1,4 @@
-# qa_automation
+# QA Automation Roadmap
 
 ## Intro
 https://roadmap.sh/qa
